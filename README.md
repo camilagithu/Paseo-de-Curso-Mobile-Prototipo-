@@ -16,7 +16,7 @@ Diseñar una aplicación móvil que permita a los apoderados y representantes de
 
 ---
 
-## 🛠 Herramientas utilizadas
+##  Herramientas utilizadas
 
 - **Canvas**: Diseño visual del prototipo móvil.
 - **Visual Studio Code**: Entorno de desarrollo.
